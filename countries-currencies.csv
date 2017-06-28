@@ -2,7 +2,7 @@ alpha2,alpha3,currency,currency_name,name,ita_name,nationality
 AF,AFG,AFN,Afghani,Afghanistan,Afghanistan,Afghan
 AL,ALB,ALL,Lek,Albania,Albania,Albanian
 DZ,DZA,DZD,Algerian Dinar,Algeria,Algeria,Algerian
-AS,ASM,USD,US Dollar,American Samoa,Samoa Americane,American
+AS,ASM,USD,US Dollar,American Samoa,Samoa Americane,American (Samoa)
 AD,AND,EUR,Euro,Andorra,Andorra,Andorran
 AO,AGO,AOA,Kwanza,Angola,Angola,Angolan
 AI,AIA,XCD,East Caribbean Dollar,Anguilla,Anguilla,Anguilla
@@ -29,7 +29,7 @@ BA,BIH,BAM,Convertible Mark,Bosnia,Bosnia ed Erzegovina,Bosnian
 BW,BWA,BWP,Pula,Botswana,Botswana,Batswana
 BV,BVT,,,Bouvet Island,Isola Bouvet,Bouvet Island
 BR,BRA,BRL,Brazilian Real,Brazil,Brasile,Brazilian
-IO,IOT,,,British Indian Ocean Territory,Territorio britannico dell'oceano Indiano,British
+IO,IOT,,,British Indian Ocean Territory,Territorio britannico dell'oceano Indiano,British (Indian Ocean Territory)
 VG,VGB,USD,US Dollar,British Virgin Islands,Isole Vergini britanniche,Bruneian
 BN,BRN,BND,Brunei Dollar,Brunei,Brunei,Bulgarian
 BG,BGR,BGN,Bulgarian Lev,Bulgaria,Bulgaria,Burkinabe
@@ -49,8 +49,8 @@ CX,CXR,,,Christmas Island,Isola di Natale,Christmas Island
 CC,CCK,,,Cocos (Keeling) Islands,Isole Cocos (Keeling),Cocos (Keeling) Islands
 CO,COL,COP,Colombian Peso,Colombia,Colombia,Colombian
 KM,COM,KMF,Comoro Franc,Comoros,Comore,Comoran
-CG,COG,XAF,CFA Franc BEAC,Congo - Brazzaville,Rep. del Congo,Congolese
-CD,COD,,,Congo - Kinshasa,RD del Congo,Congolese
+CG,COG,XAF,CFA Franc BEAC,Congo - Brazzaville,Rep. del Congo,Congolese (CFA Franc BEAC)
+CD,COD,,,Congo - Kinshasa,RD del Congo,Congolese (Congo - Kinshasa)
 CK,COK,NZD,New Zealand Dollar,Cook Islands,Isole Cook,Cook Island
 CR,CRI,CRC,Costa Rican Colon,Costa Rica,Costa Rica,Costa Rican
 HR,HRV,HRK,Croatian Kuna,Croatia,Croazia,Croatian
@@ -62,7 +62,7 @@ CI,CIV,XOF,CFA Franc BCEAO,Côte d’Ivoire,Costa d'Avorio,Ivorian
 DK,DNK,DKK,Danish Krone,Denmark,Danimarca,Danish
 DJ,DJI,DJF,Djibouti Franc,Djibouti,Gibuti,Djibouti
 DM,DMA,XCD,East Caribbean Dollar,Dominica,Dominica,Dominican
-DO,DOM,DOP,Dominican Peso,Dominican Republic,Rep. Dominicana,Dominican
+DO,DOM,DOP,Dominican Peso,Dominican Republic,Rep. Dominicana,Dominican (Republic)
 EC,ECU,USD,US Dollar,Ecuador,Ecuador,Ecuadorean
 EG,EGY,EGP,Egyptian Pound,Egypt,Egitto,Egyptian
 SV,SLV,USD,US Dollar,El Salvador,El Salvador,El Salvador
@@ -74,17 +74,17 @@ FK,FLK,FKP,Falkland Islands Pound,Falkland Islands,Isole Falkland,Falkland Islan
 FJ,FJI,FJD,Fiji Dollar,Fiji,Figi,Fijian
 FI,FIN,EUR,Euro,Finland,Finlandia,Finnish
 FR,FRA,EUR,Euro,France,Francia,French
-GF,GUF,EUR,Euro,French Guiana,Guyana francese,French
-PF,PYF,XPF,CFP Franc,French Polynesia,Polinesia Francese,French
-TF,ATF,,,French Southern Territories,Terre australi e antartiche francesi,French
+GF,GUF,EUR,Euro,French Guiana,Guyana francese,French (Guiana)
+PF,PYF,XPF,CFP Franc,French Polynesia,Polinesia Francese,French (Polynesia)
+TF,ATF,,,French Southern Territories,Terre australi e antartiche francesi,French (Southern Territories)
 GA,GAB,XAF,CFA Franc BEAC,Gabon,Gabon,Gabonese
 GM,GMB,GMD,Dalasi,Gambia,Gambia,Gambian
 GE,GEO,GEL,Lari,Georgia,Georgia,Georgian
 DE,DEU,EUR,Euro,Germany,Germania,German
 GH,GHA,GHS,Ghana Cedi,Ghana,Ghana,Ghanaian
-GI,GIB,GIP,Gibraltar Pound,Gibraltar,Gibilterra,British
+GI,GIB,GIP,Gibraltar Pound,Gibraltar,Gibilterra,British (Bibraltar)
 GR,GRC,EUR,Euro,Greece,Grecia,Greek
-GL,GRL,DKK,Danish Krone,Greenland,Groenlandia,Danish
+GL,GRL,DKK,Danish Krone,Greenland,Groenlandia,Danish (Greenland)
 GD,GRD,XCD,East Caribbean Dollar,Grenada,Grenada,Grenadian
 GP,GLP,EUR,Euro,Guadeloupe,Guadalupa,Guadalupe
 GU,GUM,USD,US Dollar,Guam,Guam,Guam
@@ -104,7 +104,7 @@ ID,IDN,IDR,Rupiah,Indonesia,Indonesia,Indonesian
 IR,IRN,IRR,Iranian Rial,Iran,Iran,Iranian
 IQ,IRQ,IQD,Iraqi Dinar,Iraq,Iraq,Iraqi
 IE,IRL,EUR,Euro,Ireland,Irlanda,Irish
-IM,IMN,GBP,Pound Sterling,Isle of Man,Isola di Man,Irish
+IM,IMN,GBP,Pound Sterling,Isle of Man,Isola di Man,Irish (Isle of Man)
 IL,ISR,ILS,New Israeli Sheqel,Israel,Israele,Israeli
 IT,ITA,EUR,Euro,Italy,Italia,Italian
 JM,JAM,JMD,Jamaican Dollar,Jamaica,Giamaica,Jamaican
@@ -228,13 +228,13 @@ TR,TUR,TRY,Turkish Lira,Turkey,Turchia,Turkish
 TM,TKM,TMT,Turkmenistan New Manat,Turkmenistan,Turkmenistan,Turkmenistan
 TC,TCA,USD,US Dollar,Turks & Caicos Islands,Turks e Caicos,Turks & Caicos Islands
 TV,TUV,AUD,Australian Dollar,Tuvalu,Tuvalu,Tuvaluan
-UM,UMI,,,U.S. Outlying Islands,Isole minori esterne degli Stati Uniti,American
-VI,VIR,USD,US Dollar,U.S. Virgin Islands,Isole Vergini americane,American
-GB,GBR,GBP,Pound Sterling,UK,Regno Unito,British
-US,USA,USD,US Dollar,US,Stati Uniti,American
+UM,UMI,,,U.S. Outlying Islands,Isole minori esterne degli Stati Uniti,American (Outlying Islands)
+VI,VIR,USD,US Dollar,U.S. Virgin Islands,Isole Vergini americane,American (Virgin Islands)
+GB,GBR,GBP,Pound Sterling,UK,Regno Unito,British (UK)
+US,USA,USD,US Dollar,US,Stati Uniti,American (US)
 UG,UGA,UGX,Uganda Shilling,Uganda,Uganda,Ugandan
 UA,UKR,UAH,Hryvnia,Ukraine,Ucraina,Ukrainian
-AE,ARE,AED,UAE Dirham,United Arab Emirates,Emirati Arabi Uniti,Ugandan
+AE,ARE,AED,UAE Dirham,United Arab Emirates,Emirati Arabi Uniti,Emirian
 UY,URY,UYU,Peso Uruguayo,Uruguay,Uruguay,Uruguayan
 UZ,UZB,UZS,Uzbekistan Sum,Uzbekistan,Uzbekistan,Uzbekistani
 VU,VUT,VUV,Vatu,Vanuatu,Vanuatu,Vanuatu
